@@ -27,5 +27,9 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. Release 1.0.0]
  - Robot [e.g. showbot]
 
+**Urgency (out of 10)**
+How urgent is the issue? Please include justification. Be aware that this is no more than you advising us, we will do an independant review and assess urgency. 1  is a minor inconvinience and 10 is total robot failiure.
+
 **Additional context**
 Add any other context about the problem here.
+
