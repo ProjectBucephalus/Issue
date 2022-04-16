@@ -1,4 +1,4 @@
-name: Report a bug
+name: bug_report
 description: Create a bug report to help improve Marlin Firmware
 title: "[BUG] (bug summary)"
 body:
