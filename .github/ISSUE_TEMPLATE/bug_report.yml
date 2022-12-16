@@ -1,5 +1,5 @@
 name: bug_report
-description: Create a bug report to help improve Marlin Firmware
+description: Create a bug report to help improve robot code
 title: "[BUG] (bug summary)"
 body:
   - type: markdown
