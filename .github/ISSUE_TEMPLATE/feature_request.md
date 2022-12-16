@@ -1,4 +1,4 @@
-name: feature_request
+name: Feature Request
 description: Create a feature request to ask for additional functionality
 title: "[FR] (feature request summary)"
 body:
