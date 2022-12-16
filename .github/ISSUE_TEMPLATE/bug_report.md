@@ -91,23 +91,6 @@ body:
       validations:
         required: true
 
-  - type: markdown
-    attributes:
-      value: >-
-        ## Other things to include
-
-        Please also be sure to include these items to help with troubleshooting:
-
-          * **A ZIP file** containing your `Configuration.h` and `Configuration_adv.h`.
-            (Please don't paste lengthy configuration text here.)
-          * **Log output** from the host. (`M111 S247` for maximum logging.)
-          * **Images or videos** demonstrating the problem, if it helps to make it clear.
-          * **A G-Code file** that exposes the problem, if not affecting _all_ G-code.
-
-        If you've made any other modifications to the firmware, please describe them in detail in the space provided.
-
-        When pasting formatted text into the box below don't forget to put ` ``` ` (on its own line) before and after to make it readable.
-
   - type: textarea
     attributes:
       label: Additional information & file uploads
